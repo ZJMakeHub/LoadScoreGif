@@ -1,0 +1,2 @@
+# LoadScoreGif
+Gif加载
